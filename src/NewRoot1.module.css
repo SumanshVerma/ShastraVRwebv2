@@ -1,0 +1,349 @@
+.newRootRoot {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  min-width: 1920px;
+  align-items: center;
+}
+.desktop {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  width: 1920px;
+  height: 3579px;
+  background-color: #ffffff;
+  overflow: hidden;
+  position: relative;
+}
+.timberwolfRectangle {
+  width: 1440px;
+  height: 2573px;
+  background-color: #d9d9d9;
+  position: absolute;
+}
+.background {
+  height: 3579px;
+  background-image: url("https://file.rendit.io/n/xwbsGK7pPbwiSRnAi98D.png");
+  background-size: cover;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.vishnu {
+  width: 1844px;
+  height: 79.6px;
+  background-image: url("https://file.rendit.io/n/4G5uhkGaFXPZtSsMNQpN.png");
+  background-size: cover;
+  align-self: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 32px 38px 1001.4px 38px;
+  margin: 0px 0px 62px 0px;
+}
+.image2 {
+  width: 264px;
+  height: 79.6px;
+}
+.flexRow {
+  border-width: 1px;
+  border-color: #ffffff;
+  border-style: solid;
+  backdrop-filter: blur(4px);
+  width: 214px;
+  background-image: linear-gradient(
+    94deg,
+    rgba(83, 46, 98, 0.5) 0%,
+    rgba(83, 46, 98, 0) 134%
+  );
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 95px;
+  padding: 17px 0px;
+}
+.element1 {
+  height: 172px;
+  position: relative;
+  min-width: 1920px;
+  margin: 0px 0px 75px 0px;
+}
+.text2 {
+  font-size: 60px;
+  font-family: League Spartan;
+  font-weight: 700;
+  color: #feb700;
+  position: absolute;
+  top: 7px;
+  left: 88px;
+}
+.image3 {
+  width: 2px;
+  height: 141.5px;
+  position: absolute;
+  left: 962px;
+}
+.text5 {
+  height: 117px;
+  font-size: 32px;
+  font-family: League Spartan;
+  font-weight: 500;
+  color: #ffffff;
+  position: absolute;
+  top: 7px;
+  left: 1037px;
+}
+.element2 {
+  height: 1258.16px;
+  position: relative;
+  min-width: 1920px;
+  margin: 0px 0px 11.84px 0px;
+}
+.flexRow1 {
+  border-width: 1px;
+  border-color: #ffffff;
+  border-style: solid;
+  backdrop-filter: blur(4px);
+  width: 214px;
+  background-image: linear-gradient(
+    94deg,
+    rgba(83, 46, 98, 0.5) 0%,
+    rgba(83, 46, 98, 0) 134%
+  );
+  display: flex;
+  position: absolute;
+  top: 105px;
+  left: 1416px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 95px;
+  padding: 17px 0px;
+}
+.text7 {
+  height: 192px;
+  font-size: 48px;
+  font-family: League Spartan;
+  font-weight: 600;
+  color: #feb700;
+  position: absolute;
+  top: 146px;
+  left: 73px;
+}
+.paragraph2 {
+  height: 303px;
+  font-size: 48px;
+  font-family: League Spartan;
+  font-weight: 400;
+  color: #ffffff;
+  position: absolute;
+  top: 675px;
+  left: 1068px;
+  white-space: pre-wrap;
+}
+.text8 {
+  font-size: 48px;
+  font-family: League Spartan;
+  font-weight: 600;
+  color: #feb700;
+  display: contents;
+  width: 852px;
+  height: 303px;
+}
+.paragraph3 {
+  font-size: 48px;
+  font-family: League Spartan;
+  font-weight: 400;
+  color: #ffffff;
+  display: contents;
+  width: 852px;
+  height: 303px;
+}
+.sbgChShartsm {
+  width: 872px;
+  height: 475px;
+  position: absolute;
+  left: 983px;
+}
+.image1 {
+  width: 872px;
+  height: 475px;
+  position: absolute;
+  top: 532px;
+  left: 71px;
+}
+.collectgetaccess {
+  text-align: right;
+  width: 849px;
+  font-size: 48px;
+  font-family: Manrope;
+  color: #ffffff;
+  position: absolute;
+  top: 403px;
+  left: 939px;
+}
+.metaashramaccess {
+  width: 849px;
+  font-size: 48px;
+  font-family: Manrope;
+  color: #ffffff;
+  position: absolute;
+  top: 944px;
+  left: 163px;
+}
+.text9 {
+  width: 387px;
+  font-size: 60px;
+  font-family: League Spartan;
+  font-weight: 500;
+  color: #ffffff;
+  position: absolute;
+  top: 1130px;
+  left: 1349px;
+}
+.arrow {
+  width: 180.32px;
+  height: 180.32px;
+  position: absolute;
+  top: 1077.84px;
+  left: 1568.84px;
+}
+.arrow1 {
+  width: 180.32px;
+  height: 180.32px;
+  position: absolute;
+  top: 969.84px;
+  left: 290.84px;
+}
+.arrow2 {
+  width: 180.32px;
+  height: 180.32px;
+  position: absolute;
+  top: 428.84px;
+  left: 1717.84px;
+}
+.image4 {
+  width: 1188.67px;
+  height: 2px;
+  position: absolute;
+  top: 1171px;
+  left: 113px;
+}
+.flexRow2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-end;
+  padding: 0px 69px;
+  margin: 0px 0px 46px 0px;
+}
+.s {
+  width: 52.1px;
+  height: 55px;
+  position: relative;
+  margin: 0px 44.9px 189px 0px;
+}
+.sbgChShartsm1 {
+  width: 423px;
+  height: 429px;
+  margin: 0px 150px 7px 0px;
+}
+.sbgChShart {
+  width: 423px;
+  height: 444px;
+  align-self: center;
+  margin: 0px 151px 0px 0px;
+}
+.sbgChShartsm2 {
+  width: 423px;
+  height: 422px;
+  align-self: center;
+  margin: 0px 39px 0px 0px;
+}
+.s1 {
+  width: 52.1px;
+  height: 55px;
+  position: relative;
+  margin: 0px 0px 189px 0px;
+}
+.flexRow3 {
+  height: 68px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-start;
+  padding: 0px 146px;
+  margin: 0px 0px 21px 0px;
+}
+.flexColumn1 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 0px 62px 0px 0px;
+}
+.flexRow7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0px 147px;
+  margin: 0px 0px 168px 0px;
+}
+.component {
+  width: 72px;
+  display: flex;
+  align-self: flex-start;
+  flex-direction: row;
+  justify-content: flex-end;
+  gap: 11px;
+  align-items: center;
+  margin: 0px 0px 48px 684px;
+}
+.element5 {
+  width: 22px;
+  height: 21px;
+  position: relative;
+  flex-grow: 1;
+}
+.iconfacebook {
+  width: 21px;
+  height: 21px;
+  position: absolute;
+  left: -34px;
+}
+.iconinstagram {
+  width: 22px;
+  height: 21px;
+  position: absolute;
+}
+.iconlinkedin {
+  width: 21px;
+  height: 21px;
+}
+.whiteParagraph {
+  text-align: center;
+  display: flex;
+  font-size: 14px;
+  font-family: League Spartan;
+  font-weight: 300;
+  align-self: flex-end;
+  backdrop-filter: blur(0px);
+  width: 1918px;
+  height: 13px;
+  background-color: rgba(255, 255, 255, 0.35);
+  flex-direction: row;
+  justify-content: center;
+  padding: 14px 0px 15px 0px;
+}
+.image7 {
+  width: 468px;
+  height: 64px;
+  mix-blend-mode: color-burn;
+  position: absolute;
+  top: 471px;
+  left: -11857px;
+}
